@@ -22,7 +22,7 @@ A responsive website for a coffee shop, showcasing products and providing inform
 ## Screenshots
 
 ![Home Page](/screenshots/home.png)
-<img src="images/coffee_logo.png" alt="Coffee Logo" />
+<img src="images/hero-bg.jpg" alt="Coffee Logo" />
 
 
 
