@@ -5,7 +5,7 @@ Coffee-website, responsive for all devices, built using HTML, CSS.
 
 ## Demo
 
-![vCard Desktop Demo](Coffee Website/images/hero-bg.jpg "Desktop Demo")
+<img src="images/coffee_logo.png" alt="Coffee Logo" />
 
 
 
